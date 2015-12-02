@@ -1,0 +1,1 @@
+I tried Rest API and Streaming API by python. twitter_rest.py gets recent tweets and save them as .pickle file and twitter_streaming.py gets the real-time data and save the data in a .txt file.
